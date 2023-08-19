@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/philipsheerin.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/philipsheerin.github.io/static/js/main.7c8ac96a.js",
+    "static/js/787.ac9e5380.chunk.js": "/philipsheerin.github.io/static/js/787.ac9e5380.chunk.js",
+    "index.html": "/philipsheerin.github.io/index.html",
+    "main.073c9b0a.css.map": "/philipsheerin.github.io/static/css/main.073c9b0a.css.map",
+    "main.7c8ac96a.js.map": "/philipsheerin.github.io/static/js/main.7c8ac96a.js.map",
+    "787.ac9e5380.chunk.js.map": "/philipsheerin.github.io/static/js/787.ac9e5380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c8ac96a.js"
+  ]
+}
